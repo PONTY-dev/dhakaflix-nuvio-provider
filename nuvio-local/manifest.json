@@ -2,9 +2,8 @@
   "id": "dhakaflix",
   "name": "DhakaFlix",
   "version": "1.0.0",
-  "description": "Local media server provider for Nuvio",
-  "author": "Your Name",
-  "icon": "",
+  "description": "BDIX DhakaFlix - Movies & TV Series",
+  "author": "PONTY",
   "providers": [
     {
       "id": "dhakaflix",

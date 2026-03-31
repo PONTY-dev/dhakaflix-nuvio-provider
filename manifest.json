@@ -8,6 +8,7 @@
       "author": "PONTY",
       "filename": "providers/dhakaflix.js",
       "supportedTypes": ["movie", "tv"],
+      "type": "local",
       "enabled": true
     }
   ]

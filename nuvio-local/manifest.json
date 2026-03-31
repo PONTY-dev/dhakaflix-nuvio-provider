@@ -1,0 +1,16 @@
+{
+  "id": "dhakaflix",
+  "name": "DhakaFlix",
+  "version": "1.0.0",
+  "description": "Local media server provider for Nuvio",
+  "author": "Your Name",
+  "icon": "",
+  "providers": [
+    {
+      "id": "dhakaflix",
+      "name": "DhakaFlix",
+      "type": "local",
+      "script": "providers/dhakaflix.js"
+    }
+  ]
+}
